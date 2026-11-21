@@ -4,7 +4,7 @@
 
 FinSight AI allows users to upload financial PDF documents and ask questions about their contents using natural language. It retrieves relevant information from the uploaded documents and generates context-aware answers with source references.
 
-🌐 **Live Demo:** [Try FinSight AI](YOUR_STREAMLIT_APP_URL)
+🌐 **Live Demo:** [Try FinSight AI](https://finsightai-0555.streamlit.app/)
 
 ---
 
